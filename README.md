@@ -15,8 +15,8 @@ This application was used as starter project to deploy an existing NodeJS applic
 
 ## Links
 
-1. S3:  [https://udagram284361803578.s3-website-us-east-1.amazonaws.com/](https://udagram284361803578.s3-website-us-east-1.amazonaws.com/)
-1. EB: [https://udagram-api-dev22222222222222.us-east-1.elasticbeanstalk.com/api/v0/feed](https://udagram-api-dev22222222222222.us-east-1.elasticbeanstalk.com/api/v0/feed)
+1. S3:  [http://udagram284361803578.s3-website-us-east-1.amazonaws.com/](http://udagram284361803578.s3-website-us-east-1.amazonaws.com/)
+1. EB: [http://udagram-api-dev22222222222222.us-east-1.elasticbeanstalk.com/api/v0/feed](http://udagram-api-dev22222222222222.us-east-1.elasticbeanstalk.com/api/v0/feed)
 
 ## Screenshots of working application
 #### backend 
