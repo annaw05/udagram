@@ -33,6 +33,8 @@ This application was used as starter project to deploy an existing NodeJS applic
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 
+## Tests
+not included
 ## License
 
 [License](LICENSE.txt)
